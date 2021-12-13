@@ -19,3 +19,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Portions of this freedesktop_os_release Software may utilize the following
+copyrighted material, the use of which is hereby acknowledged.
+
+https://github.com/python/cpython/blob/a62be77266b1beadd42d4952186332bc0847b7d6/Lib/platform.py
+
+Copyright (c) 1999-2000, Marc-Andre Lemburg; mailto:mal@lemburg.com
+Copyright (c) 2000-2010, eGenix.com Software GmbH; mailto:info@egenix.com
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee or royalty is hereby granted,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation or portions thereof, including modifications,
+that you make.
+
+EGENIX.COM SOFTWARE GMBH DISCLAIMS ALL WARRANTIES WITH REGARD TO
+THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL,
+INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING
+FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
+WITH THE USE OR PERFORMANCE OF THIS SOFTWARE !
