@@ -1,3 +1,6 @@
+import re
+
+
 ### freedesktop.org os-release standard
 # https://www.freedesktop.org/software/systemd/man/os-release.html
 
@@ -49,7 +52,6 @@ def freedesktop_os_release():
         else:
             raise OSError(
                 errno,
-                f"Unable to read files {', '.join(_os_release_candidates)}"
+                "Unable to read files {}".format(', '.join(_os_release_candidates))
             )
-
     return _os_release_cache.copy()
