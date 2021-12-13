@@ -1,5 +1,9 @@
+"""
+Backport of platform.freedesktop_os_release() compatible with python 3.5.
+"""
 import re
 
+__version__ = '0.0.0'
 
 ### freedesktop.org os-release standard
 # https://www.freedesktop.org/software/systemd/man/os-release.html
